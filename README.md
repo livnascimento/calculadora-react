@@ -66,11 +66,3 @@ Este projeto está licenciado sob a [Apache License 2.0](LICENSE).
 ## 📞 Contato
 
 Se quiser conversar sobre o código ou simplesmente bater um papo, você pode me achar no [Linkedin](https://www.linkedin.com/in/liviarnascimento/)
-
-## 🔗 Links
-
-- [DIO](https://web.dio.me/)
-- [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Documentação CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Documentação Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Documentação Bootstrap](https://getbootstrap.com/docs)
