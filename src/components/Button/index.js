@@ -1,9 +1,17 @@
-import { ButtonContainer } from "./styles";
+import { ButtonContainer, LargeButtonContainer } from "./styles";
 
-export const Button = () => {
+export const Button = ({label, onClick}) => {
     return (
-      <ButtonContainer>
-        0
+      <ButtonContainer onClick={onClick}>
+        {label}
       </ButtonContainer>
+    );
+}
+
+export const LargeButton = ({label, onClick}) => {
+    return (
+      <LargeButtonContainer onClick={onClick}>
+        {label}
+      </LargeButtonContainer>
     );
 }
