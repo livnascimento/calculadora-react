@@ -1,9 +1,9 @@
 import { DisplayContainer } from './styles'
 
-export const Display = () => {
+export const Display = ({value}) => {
     return (
       <DisplayContainer>
-       <input />
+       <input disabled value={value}/>
       </DisplayContainer>
     );
 }
